@@ -10,7 +10,6 @@ body {
         radial-gradient(circle, rgba(90, 53, 136, 0.15) 0%, transparent 45%);
 
     background-size: 1000px 1000px, 800px 800px, 1200px 1200px;
-    animation: bergerak 15s ease-in-out infinite alternate;
 }
 
 .navbar {
